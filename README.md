@@ -9,7 +9,3 @@
 
 - `git log`: shows the (history) of commits
 - `git log --oneline`: shows the (history) in one line
-
-- `git diff` : compares uncommitted with latest commit
-- `git diff --staged` : After Changes in stagged area
-
