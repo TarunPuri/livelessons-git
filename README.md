@@ -11,3 +11,7 @@
 - `git log --oneline`: shows the (history) in one line
 - `git checkout`: restore + git add
 - `git restore <filename>`: restore file to thr previous git state
+
+- `git remote add <NAME><URL>`: NAME By Default is ORIGIN
+- `git remote rm <NAME>`: Removes Origin
+
