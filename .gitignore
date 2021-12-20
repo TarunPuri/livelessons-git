@@ -1,2 +1,2 @@
-touch_fig.png
-*.png
+fig_ignore.png
+output/*.png
