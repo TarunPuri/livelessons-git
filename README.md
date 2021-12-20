@@ -14,4 +14,5 @@
 
 - `git remote add <NAME><URL>`: NAME By Default is ORIGIN
 - `git remote rm <NAME>`: Removes Origin
-
+- `git pull <WHERE> <WHAT>` : Pulls down <WHAT> to <WHERE>
+ 
