@@ -12,6 +12,7 @@
 - `git checkout`: restore + git add
 - `git restore <filename>`: restore file to thr previous git state
 
+#  Started Working with Git hosting Sites like GitHUB 
 - `git remote add <NAME><URL>`: NAME By Default is ORIGIN
 - `git remote rm <NAME>`: Removes Origin
 - `git pull <WHERE> <WHAT>` : Pulls down <WHAT> to <WHERE>
