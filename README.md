@@ -1,5 +1,4 @@
-# GIT NOTES
-# GIT is wonderful
+# GIT notes for Local Computer
 
 - `git init` : initilaize folder as git repo
 - `git clone <url>` : download files from url to folder
@@ -15,7 +14,7 @@
 - `git checkout`: restore + git add
 - `git restore <filename>`: restore file to thr previous git state
 
-#  Started Working with Git hosting Sites like GitHUB 
+#  Working with Remotes 
 - `git remote add <NAME><URL>`: NAME By Default is ORIGIN
 - `git remote rm <NAME>`: Removes Origin
 - `git pull <WHERE> <WHAT>` : Pulls down <WHAT> to <WHERE>
